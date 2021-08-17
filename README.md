@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TrevorDRyles
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on NA
 - 📫 How to reach me trevorryles02@gmail.com
 
 <!---
